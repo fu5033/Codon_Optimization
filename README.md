@@ -45,5 +45,5 @@ You can also use our [trained_model](sample_data/lstmcrf.0.model) to decode.
 
 4.Codonbox website
 ====
-http://www.codonbox.com:7000
+https://github.com/fu5033/fuhg_2026 
 
